@@ -334,7 +334,7 @@ DECLARE @OUTPUT TABLE (category NVARCHAR(30),name NVARCHAR(30), content XML,id_t
 	DECLARE @TITLETEXT NVARCHAR(MAX)= 'Example Chart'
 	DECLARE @COMNTTEXT NVARCHAR(MAX) = 'Chart Comments'
 --()Summary_Data
-	DECLARE @CLASSIFICATION NVARCHAR(MAX) = 'Law Enforcement Sensitive//Not For Public Release'
+	DECLARE @CLASSIFICATION NVARCHAR(MAX) = 'Enter Classifcation'
 	DECLARE @SUMMARY XML
 	SELECT @SUMMARY = (
 	SELECT
