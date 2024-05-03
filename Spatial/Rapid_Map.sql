@@ -5,7 +5,7 @@ POC is:
 --Jonathan Miller
 --Crime Data Analyst
 --Portland Police Bureau, Strategic Services Division
---Contact via LinkedIn: https://www.linkedin.com/in/jonathanmiller3/
+--Contact via LinkedIn: https://www.linkedin.com/in/jonathanmiller3/ 
 
 Description:	Creates a kml file for use in google earth. Save the output in a .txt file and then change the extension to .kml. 
               It requires use of the rapid_map userdefined table type, which consists of the following columms:
