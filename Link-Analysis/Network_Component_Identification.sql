@@ -7,9 +7,7 @@ POC is:
 --Jonathan Miller
 --Crime Data Analyst
 --Portland Police Bureau, Strategic Services Division
---jonathan.miller@police.portlandoregon.gov
-
-
+--Contact via LinkedIn: https://www.linkedin.com/in/jonathanmiller3/
 */
 
 --(1) Establish Edge List and Distinct Llist of Nodes
