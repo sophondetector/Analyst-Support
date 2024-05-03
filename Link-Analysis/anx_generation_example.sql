@@ -4,7 +4,7 @@ POC for this example usage of SQL to produce anx files is:
 --Jonathan Miller
 --Crime Data Analyst
 --Portland Police Bureau, Strategic Services Division
---jonathan.miller@police.portlandoregon.gov
+--Contact via LinkedIn: https://www.linkedin.com/in/jonathanmiller3/
 
 To use 
 --1.Run query
